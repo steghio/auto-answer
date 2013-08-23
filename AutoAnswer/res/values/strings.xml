@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Auto Answer</string>
+    <string name="enabled">Enable</string>
+	<string name="delay">Delay Before Answer</string>
+	<string name="no_second_call">Don\'t Answer if In Call</string>
+	<string name="notification_title">Auto Answer enabled</string>
+	<string name="notification_text">Select to configure or disable</string>
+</resources>

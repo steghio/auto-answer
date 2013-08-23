@@ -1,0 +1,7 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<CheckBoxPreference android:key="enabled" android:title="@string/enabled"/>
+	<ListPreference android:key="delay" android:title="@string/delay"
+		android:entries="@array/delay"	android:entryValues="@array/delay_values"
+		android:defaultValue="2" />
+	<CheckBoxPreference android:key="no_second_call" android:title="@string/no_second_call"/>
+</PreferenceScreen>
